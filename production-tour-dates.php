@@ -39,7 +39,7 @@
 								</a>
 							</li>
 
-							<li>
+							<li class="hide">
 								<a data-toggle="tab" id="dropdown8-tab" role="tab" href="#austens-women">
 									Austen's Women
 								</a>
@@ -93,6 +93,12 @@
 								</a>
 							</li>
 
+							<li>
+								<a data-toggle="tab" id="dropdown11-tab" role="tab" href="#orlando">
+									Orlando
+								</a>
+							</li>
+
 						</ul>
 
 					</li>
@@ -101,212 +107,6 @@
 				<!-- Tab panes -->
 				<div class="tab-content">
 					<div role="tabpanel" class="tab-pane fade in active" id="all">
-
-						<table class="tour-dates-table">
-							<tr>
-								<td colspan="4" class="tour-date-month-header">
-									<h4>May 2018</h4>
-								</td>
-							</tr>
-
-							<tr>
-								<th class="dates-col-1">
-									<p>Production</p>
-								</th>
-
-								<th class="dates-col-2">
-									<p>Theatre</p>
-								</th>
-
-								<th class="dates-col-3">
-									<p>Date</p>
-								</th>
-
-								<th class="dates-col-4">
-									<p>Box Office</p>
-								</th>
-							</tr>
-
-							<tr>
-								<td class="production-name">
-									<a href="theatre-productions/austens-women"><img src="images/productions/austens-women/heading.png" alt="Austen's Women" class="tour-date-logo" /></a>
-								</td>
-
-								<td>
-									<a href="http://www.quaysudbury.com/drama" target="_blank">Quay Theatre, Sudbury</a>
-								</td>
-
-								<td class="production-date">
-									Tue May 15, 2018
-								</td>
-
-								<td>
-								01787 374745
-								</td>
-							</tr>
-
-							<tr>
-							<td class="production-name">
-								<a href="theatre-productions/austens-women"><img src="images/productions/austens-women/heading.png" alt="Austen's Women" class="tour-date-logo" /></a>
-							</td>
-
-							<td>
-								<a href="http://www.blackfriarsartscentre.co.uk/Austens_Women" target="_blank">Blackfriars Theatre and Arts Centre, Boston, Lincs</a>
-							</td>
-
-							<td class="production-date">
-								Wed May 16, 2018
-							</td>
-
-							<td>
-							01205 363108
-							</td>
-						</tr>
-
-						<tr>
-						<td class="production-name">
-							<a href="theatre-productions/austens-women"><img src="images/productions/austens-women/heading.png" alt="Austen's Women" class="tour-date-logo" /></a>
-						</td>
-
-						<td>
-							<a href="https://www.chelmsford.gov.uk/theatres/whats-on/drama/austens-women/" target="_blank">Cramphorn Studio, Chelmsford</a>
-						</td>
-
-						<td class="production-date">
-							Thur May 17, 2018
-						</td>
-
-						<td>
-						01245 606505
-						</td>
-					</tr>
-
-					<tr>
-					<td class="production-name">
-						<a href="theatre-productions/austens-women"><img src="images/productions/austens-women/heading.png" alt="Austen's Women" class="tour-date-logo" /></a>
-					</td>
-
-					<td>
-						<a href="https://www.chelmsford.gov.uk/theatres/whats-on/drama/austens-women/" target="_blank">Cramphorn Studio, Chelmsford</a>
-					</td>
-
-					<td class="production-date">
-						Fri May 18, 2018
-					</td>
-
-					<td>
-					01245 606505
-					</td>
-				</tr>
-
-				<tr>
-				<td class="production-name">
-					<a href="theatre-productions/austens-women"><img src="images/productions/austens-women/heading.png" alt="Austen's Women" class="tour-date-logo" /></a>
-				</td>
-
-				<td>
-					<a href="http://stablestheatre.co.uk/" target="_blank">Stables Theatre, Hastings</a>
-				</td>
-
-				<td class="production-date">
-					Sat May 19, 2018
-				</td>
-
-				<td>
-				01424 423221
-				</td>
-			</tr>
-
-			<tr>
-			<td class="production-name">
-				<a href="theatre-productions/austens-women"><img src="images/productions/austens-women/heading.png" alt="Austen's Women" class="tour-date-logo" /></a>
-			</td>
-
-			<td>
-				<a href="http://www.bowhillhouse.co.uk/events/dyad-productions-association-tti-austens-women/" target="_blank">Bowhill Theatre, Selkirk, Scottish Borders</a>
-			</td>
-
-			<td class="production-date">
-				Tue May 22, 2018
-			</td>
-
-			<td>
-			01750 22204
-			</td>
-		</tr>
-
-		<tr>
-		<td class="production-name">
-			<a href="theatre-productions/austens-women"><img src="images/productions/austens-women/heading.png" alt="Austen's Women" class="tour-date-logo" /></a>
-		</td>
-
-		<td>
-			<a href="http://www.artscentrewashington.com/production-details.aspx?id=1100" target="_blank">Arts Centre, Washington</a>
-		</td>
-
-		<td class="production-date">
-			Wed May 23, 2018
-		</td>
-
-		<td>
-		0191 561 3455
-		</td>
-	</tr>
-
-	<tr>
-	<td class="production-name">
-		<a href="theatre-productions/austens-women"><img src="images/productions/austens-women/heading.png" alt="Austen's Women" class="tour-date-logo" /></a>
-	</td>
-
-	<td>
-		<a href="http://www.theatreroyalwakefield.co.uk/whats-on/tags/Drama" target="_blank">Wakefield Theatre Royal</a>
-	</td>
-
-	<td class="production-date">
-		Thur May 24, 2018
-	</td>
-
-	<td>
-	01924 211311
-	</td>
-</tr>
-
-							<tr>
-								<td class="production-name">
-									<a href="theatre-productions/the-time-machine"><img src="images/productions/the-time-machine/heading.png" alt="The Time Machine" class="tour-date-logo" /></a>
-								</td>
-
-								<td>
-									<a href="https://www.thebroadwaybarking.com/sales/genres/drama/the-time-machine">Broadway Barking</a>
-								</td>
-
-								<td class="production-date">
-									Fri April 25, 2018
-								</td>
-
-								<td>
-								020 8507 5607
-								</td>
-							</tr>
-
-							<tr>
-							<td class="production-name">
-								<a href="theatre-productions/austens-women"><img src="images/productions/austens-women/heading.png" alt="Austen's Women" class="tour-date-logo" /></a>
-							</td>
-
-							<td>
-								<a href="http://www.theplacebedford.org.uk/cgi-bin/basket_displayshowpage.pl?show=951" target="_blank">The Place, Bedford</a>
-							</td>
-
-							<td class="production-date">
-								Sat May 26, 2018
-							</td>
-
-							<td>
-							01234 354321
-							</td>
-						</tr>
-						</table>
 
 						<table class="tour-dates-table">
 							<tr>
@@ -332,96 +132,6 @@
 									<p>Box Office</p>
 								</th>
 							</tr>
-
-							<tr>
-							<td class="production-name">
-								<a href="theatre-productions/the-time-machine"><img src="images/productions/the-time-machine/heading.png" alt="The Time Machine" class="tour-date-logo" /></a>
-							</td>
-
-							<td>
-								<a href="http://www.quarrytheatre.org.uk/whats-on/">Quarry Theatre, Bedford</a>
-							</td>
-
-							<td class="production-date">
-								Tue June 5, 2018
-							</td>
-
-							<td>
-							01234 362269
-							</td>
-						</tr>
-
-						<tr>
-								<td class="production-name">
-									<a href="theatre-productions/the-time-machine"><img src="images/productions/the-time-machine/heading.png" alt="The Time Machine" class="tour-date-logo" /></a>
-								</td>
-
-								<td>
-									<a href="https://www.cornerstone-arts.org/whats-on?field_genre_tid=16">Cornerstone Arts, Didcot, Oxon</a>
-								</td>
-
-								<td class="production-date">
-									Fri June 8, 2018
-								</td>
-
-								<td>
-								01235 515144
-								</td>
-							</tr>
-
-							<tr>
-							<td class="production-name">
-								<a href="theatre-productions/the-time-machine"><img src="images/productions/the-time-machine/heading.png" alt="The Time Machine" class="tour-date-logo" /></a>
-							</td>
-
-							<td>
-								<a href="https://www.shaftesburyartscentre.org.uk/theatre/">Shaftesbury Arts Centre</a>
-							</td>
-
-							<td class="production-date">
-								Sat June 9, 2018
-							</td>
-
-							<td>
-							01747 854321
-							</td>
-						</tr>
-
-						<tr>
-						<td class="production-name">
-							<a href="theatre-productions/the-time-machine"><img src="images/productions/the-time-machine/heading.png" alt="The Time Machine" class="tour-date-logo" /></a>
-						</td>
-
-						<td>
-							<a href="http://stablestheatre.co.uk/">Stables Theatre, Hastings</a>
-						</td>
-
-						<td class="production-date">
-							Thur June 14, 2018
-						</td>
-
-						<td>
-						01424 423221
-						</td>
-					</tr>
-
-					<tr>
-					<td class="production-name">
-						<a href="theatre-productions/the-time-machine"><img src="images/productions/the-time-machine/heading.png" alt="The Time Machine" class="tour-date-logo" /></a>
-					</td>
-
-					<td>
-						<a href="http://stablestheatre.co.uk/">Stables Theatre, Hastings</a>
-					</td>
-
-					<td class="production-date">
-						Fri June 15, 2018
-					</td>
-
-					<td>
-					01424 423221
-					</td>
-				</tr>
 
 				<tr>
 					<td class="production-name">
@@ -670,6 +380,68 @@
 							</td>
 						</tr>
 						</table>
+
+						<table class="tour-dates-table">
+							<tr>
+								<td colspan="4" class="tour-date-month-header">
+									<h4>August 2018</h4>
+								</td>
+							</tr>
+
+							<tr>
+								<th class="dates-col-1">
+									<p>Production</p>
+								</th>
+
+								<th class="dates-col-2">
+									<p>Theatre</p>
+								</th>
+
+								<th class="dates-col-3">
+									<p>Date</p>
+								</th>
+
+								<th class="dates-col-4">
+									<p>Box Office</p>
+								</th>
+							</tr>
+
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/orlando"><img src="images/productions/orlando/heading.png" alt="Orlando" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="https://www.assemblyfestival.com/whats-on/orlando">Assembly Roxy Upstairs (Edinburgh Festival Fringe)</a>
+								</td>
+
+								<td class="production-date">
+								August 2-27 (not 8, 14, 21) 11:30
+								</td>
+
+								<td>
+								0131 623 3030
+								</td>
+							</tr>
+
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/the-time-machine"><img src="images/productions/the-time-machine/heading.png" alt="The Time Machine" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="https://www.cstkc.com/time-machine">MET Theatre, Kansas City</a>
+								</td>
+
+								<td class="production-date">
+								August 16-19
+								</td>
+
+								<td>
+								+1 816 635 0543
+								</td>
+							</tr>
+						</table>
 					</div>
 
 					<div role="tabpanel" class="tab-pane fade" id="christmas-gothic">
@@ -817,9 +589,9 @@
 					</div>
 
 					<div role="tabpanel" class="tab-pane fade" id="austens-women">
-						<!--<p>We're sorry, there are no scheduled tour dates for this production. Please keep checking or subscribe to our newsletter to hear about our latest news and tour dates.</p>-->
+						<p>We're sorry, there are no scheduled tour dates for this production. Please keep checking or subscribe to our newsletter to hear about our latest news and tour dates.</p>
 
-						<table class="tour-dates-table" id="austens-women-output">
+						<!--<table class="tour-dates-table" id="austens-women-output">
 							<tr>
 								<th class="dates-col-1">
 									<p>Production</p>
@@ -837,7 +609,7 @@
 									<p>Box Office</p>
 								</th>
 							</tr>
-						</table>
+						</table>-->
 					</div>
 
 					<div role="tabpanel" class="tab-pane fade" id="jane-eyre">
@@ -868,6 +640,30 @@
 						<!--<p>We're sorry, there are no scheduled tour dates for this production. Please keep checking or subscribe to our newsletter to hear about our latest news and tour dates.</p>-->
 
 						<table class="tour-dates-table" id="the-time-machine-output">
+							<tr>
+								<th class="dates-col-1">
+									<p>Production</p>
+								</th>
+
+								<th class="dates-col-2">
+									<p>Theatre</p>
+								</th>
+
+								<th class="dates-col-3">
+									<p>Date</p>
+								</th>
+
+								<th class="dates-col-4">
+									<p>Box Office</p>
+								</th>
+							</tr>
+						</table>
+					</div>
+					
+					<div role="tabpanel" class="tab-pane fade" id="orlando">
+						<!--<p>We're sorry, there are no scheduled tour dates for this production. Please keep checking or subscribe to our newsletter to hear about our latest news and tour dates.</p>-->
+
+						<table class="tour-dates-table" id="orlando-output">
 							<tr>
 								<th class="dates-col-1">
 									<p>Production</p>
@@ -1012,6 +808,16 @@ $( document ).ready(function() {
 	        //place the row in the new table
 	        
 	        $("#the-time-machine-output").append(thisRow)
+
+	    }
+
+		if( link === 'theatre-productions/orlando') {
+	        
+	        //get the row to a var
+	        var thisRow = $(this).closest("tr").clone()
+	        //place the row in the new table
+	        
+	        $("#orlando-output").append(thisRow)
 
 	    }
 	    
