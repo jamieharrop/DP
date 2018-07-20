@@ -107,145 +107,6 @@
 				<!-- Tab panes -->
 				<div class="tab-content">
 					<div role="tabpanel" class="tab-pane fade in active" id="all">
-
-						<table class="tour-dates-table">
-							<tr>
-								<td colspan="4" class="tour-date-month-header">
-									<h4>June 2018</h4>
-								</td>
-							</tr>
-
-							<tr>
-								<th class="dates-col-1">
-									<p>Production</p>
-								</th>
-
-								<th class="dates-col-2">
-									<p>Theatre</p>
-								</th>
-
-								<th class="dates-col-3">
-									<p>Date</p>
-								</th>
-
-								<th class="dates-col-4">
-									<p>Box Office</p>
-								</th>
-							</tr>
-
-				<tr>
-					<td class="production-name">
-						<a href="theatre-productions/the-time-machine"><img src="images/productions/the-time-machine/heading.png" alt="The Time Machine" class="tour-date-logo" /></a>
-					</td>
-
-					<td>
-						<a href="http://www.yvonne-arnaud.co.uk/production/the-time-machine-0">Yvonne Arnaud Theatre, Guildford</a>
-					</td>
-
-					<td class="production-date">
-						Thur June 21, 2018
-					</td>
-
-					<td>
-					01483 440000
-					</td>
-				</tr>
-
-				<tr>
-				<td class="production-name">
-					<a href="theatre-productions/the-time-machine"><img src="images/productions/the-time-machine/heading.png" alt="The Time Machine" class="tour-date-logo" /></a>
-				</td>
-
-				<td>
-					<a href="http://www.yvonne-arnaud.co.uk/production/the-time-machine-0">Yvonne Arnaud Theatre, Guildford</a>
-				</td>
-
-				<td class="production-date">
-					Fri June 22, 2018
-				</td>
-
-				<td>
-				01483 440000
-				</td>
-			</tr>
-
-			<tr>
-			<td class="production-name">
-				<a href="theatre-productions/the-time-machine"><img src="images/productions/the-time-machine/heading.png" alt="The Time Machine" class="tour-date-logo" /></a>
-			</td>
-
-			<td>
-				<a href="http://www.yvonne-arnaud.co.uk/production/the-time-machine-0">Yvonne Arnaud Theatre, Guildford</a>
-			</td>
-
-			<td class="production-date">
-				Sat June 23, 2018
-			</td>
-
-			<td>
-			01483 440000
-			</td>
-		</tr>
-
-
-
-
-
-				<tr>
-				<td class="production-name">
-					<a href="theatre-productions/the-time-machine"><img src="images/productions/the-time-machine/heading.png" alt="The Time Machine" class="tour-date-logo" /></a>
-				</td>
-
-				<td>
-					<a href="https://www.destinationhartlepool.com/events/the-time-machine.html">Hartlepool Town Hall Theatre</a>
-				</td>
-
-				<td class="production-date">
-					Wed June 27, 2018
-				</td>
-
-				<td>
-				01429 880000
-				</td>
-			</tr>
-
-							<tr>
-								<td class="production-name">
-									<a href="theatre-productions/the-time-machine"><img src="images/productions/the-time-machine/heading.png" alt="The Time Machine" class="tour-date-logo" /></a>
-								</td>
-
-								<td>
-									<a href="http://www.roperyhall.co.uk/theatre/">Ropery Hall, Barton Upon Humber</a>
-								</td>
-
-								<td class="production-date">
-									Thur June 28, 2018
-								</td>
-
-								<td>
-								01652 660380
-								</td>
-							</tr>
-
-							<tr>
-							<td class="production-name">
-								<a href="theatre-productions/the-time-machine"><img src="images/productions/the-time-machine/heading.png" alt="The Time Machine" class="tour-date-logo" /></a>
-							</td>
-
-							<td>
-								<a href="https://www.settlevictoriahall.org.uk/eventsandshows/thetimemachine290618">Settle Victoria Hall</a>
-							</td>
-
-							<td class="production-date">
-								Fri June 29, 2018
-							</td>
-
-							<td>
-							01729 825718
-							</td>
-						</tr>
-						</table>
-
 						<table class="tour-dates-table">
 							<tr>
 								<td colspan="4" class="tour-date-month-header">
@@ -277,61 +138,6 @@
 								</td>
 
 								<td>
-									<a href="http://www.strodetheatre.org.uk/whats-on/view/the-time-machine/">Strode Theatre</a>
-								</td>
-
-								<td class="production-date">
-									Wed July 4, 2018
-								</td>
-
-								<td>
-								01458 442846
-								</td>
-							</tr>
-
-
-						<tr>
-				<td class="production-name">
-					<a href="theatre-productions/the-time-machine"><img src="images/productions/the-time-machine/heading.png" alt="The Time Machine" class="tour-date-logo" /></a>
-				</td>
-
-				<td>
-					<a href="https://www.themillartscentre.co.uk/Event/145154?spektrix_bounce=true">Mill Arts Centre, Banbury</a>
-				</td>
-
-				<td class="production-date">
-					Fri July 6, 2018
-				</td>
-
-				<td>
-				01295 279002
-				</td>
-			</tr>
-
-							<tr>
-								<td class="production-name">
-									<a href="theatre-productions/the-time-machine"><img src="images/productions/the-time-machine/heading.png" alt="The Time Machine" class="tour-date-logo" /></a>
-								</td>
-
-								<td>
-									<a href="https://www.lichfieldfestival.org/homepage/">Lichfield Garrick (Lichfield Festival)</a>
-								</td>
-
-								<td class="production-date">
-									Thur July 12, 2018
-								</td>
-
-								<td>
-								01543 306270
-								</td>
-							</tr>
-
-							<tr>
-								<td class="production-name">
-									<a href="theatre-productions/the-time-machine"><img src="images/productions/the-time-machine/heading.png" alt="The Time Machine" class="tour-date-logo" /></a>
-								</td>
-
-								<td>
 									Brentwood Theatre
 								</td>
 
@@ -341,6 +147,42 @@
 
 								<td>
 								01227 200305
+								</td>
+							</tr>
+
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/orlando"><img src="images/productions/orlando/heading.png" alt="Orlando" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="http://www.maltingsartstheatre.co.uk/event/orlando/">Maltings Arts Theatre</a>
+								</td>
+
+								<td class="production-date">
+								Thur July 26, 2018
+								</td>
+
+								<td>
+								0333 666 3366
+								</td>
+							</tr>
+
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/orlando"><img src="images/productions/orlando/heading.png" alt="Orlando" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="http://www.maltingsartstheatre.co.uk/event/orlando/">Maltings Arts Theatre</a>
+								</td>
+
+								<td class="production-date">
+								Fri July 27, 2018
+								</td>
+
+								<td>
+								0333 666 3366
 								</td>
 							</tr>
 
@@ -439,6 +281,256 @@
 
 								<td>
 								+1 816 635 0543
+								</td>
+							</tr>
+						</table>
+
+						<table class="tour-dates-table">
+							<tr>
+								<td colspan="4" class="tour-date-month-header">
+									<h4>September 2018</h4>
+								</td>
+							</tr>
+
+							<tr>
+								<th class="dates-col-1">
+									<p>Production</p>
+								</th>
+
+								<th class="dates-col-2">
+									<p>Theatre</p>
+								</th>
+
+								<th class="dates-col-3">
+									<p>Date</p>
+								</th>
+
+								<th class="dates-col-4">
+									<p>Box Office</p>
+								</th>
+							</tr>
+
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/the-time-machine"><img src="images/productions/the-time-machine/heading.png" alt="The Time Machine" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="http://www.blackfirarsartscentre.co.uk/The_Time_Machine">Blackfriars Theatre, Boston</a>
+								</td>
+
+								<td class="production-date">
+								Fri September 14, 2018
+								</td>
+
+								<td>
+								01205 363108
+								</td>
+							</tr>
+
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/the-time-machine"><img src="images/productions/the-time-machine/heading.png" alt="The Time Machine" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="http://www.swallowtheatre.co.uk/performances/the-time-machine/">Swallow Theatre, Dumfries and Galloway</a>
+								</td>
+
+								<td class="production-date">
+								Mon September 24, 2018
+								</td>
+
+								<td>
+								01988 850368
+								</td>
+							</tr>
+
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/the-time-machine"><img src="images/productions/the-time-machine/heading.png" alt="The Time Machine" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="http://www.swallowtheatre.co.uk/performances/the-time-machine/">Swallow Theatre, Dumfries and Galloway</a>
+								</td>
+
+								<td class="production-date">
+								Tue September 25, 2018
+								</td>
+
+								<td>
+								01988 850368
+								</td>
+							</tr>
+
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/the-time-machine"><img src="images/productions/the-time-machine/heading.png" alt="The Time Machine" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="https://www.alley-theatre.com/whats-on/27-sep-2018-2000-the-alley-theatre-main-auditorium-opening-time-1945-the-time-machine">Alley Theatre, Strabane, NI</a>
+								</td>
+
+								<td class="production-date">
+								Thur September 27, 2018
+								</td>
+
+								<td>
+								028 7138 4444
+								</td>
+							</tr>
+
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/the-time-machine"><img src="images/productions/the-time-machine/heading.png" alt="The Time Machine" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="https://ardhowen.com/show/the-time-machine/">Ardhowen Theatre, Enniskillen, NI</a>
+								</td>
+
+								<td class="production-date">
+								Fri September 28, 2018
+								</td>
+
+								<td>
+								028 6632 5440
+								</td>
+							</tr>
+						</table>
+
+						<table class="tour-dates-table">
+							<tr>
+								<td colspan="4" class="tour-date-month-header">
+									<h4>October 2018</h4>
+								</td>
+							</tr>
+
+							<tr>
+								<th class="dates-col-1">
+									<p>Production</p>
+								</th>
+
+								<th class="dates-col-2">
+									<p>Theatre</p>
+								</th>
+
+								<th class="dates-col-3">
+									<p>Date</p>
+								</th>
+
+								<th class="dates-col-4">
+									<p>Box Office</p>
+								</th>
+							</tr>
+
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/the-time-machine"><img src="images/productions/the-time-machine/heading.png" alt="The Time Machine" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="https://www.customshouse.co.uk/theatre/the-time-machine-/">Customs House, South Shields</a>
+								</td>
+
+								<td class="production-date">
+								Thur October 4, 2018
+								</td>
+
+								<td>
+								0191 454 1234
+								</td>
+							</tr>
+
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/the-time-machine"><img src="images/productions/the-time-machine/heading.png" alt="The Time Machine" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="https://www.maltingsberwick.co.uk/events/theatre/4694">Maltings Theatre, Berwick Upon Tweed</a>
+								</td>
+
+								<td class="production-date">
+								Fri October 5, 2018
+								</td>
+
+								<td>
+								01289 330999
+								</td>
+							</tr>
+
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/the-time-machine"><img src="images/productions/the-time-machine/heading.png" alt="The Time Machine" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="https://www.forest-arts.co.uk/event/time-machine">Forest Arts Centre, New Milton</a>
+								</td>
+
+								<td class="production-date">
+								Thur October 18, 2018
+								</td>
+
+								<td>
+								01425 619983
+								</td>
+							</tr>
+
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/the-time-machine"><img src="images/productions/the-time-machine/heading.png" alt="The Time Machine" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="https://www.pavilionsteignmouth.org.uk/events/time-machine">Pavilions, Teignmouth</a>
+								</td>
+
+								<td class="production-date">
+								Fri October 19, 2018
+								</td>
+
+								<td>
+								01626 249049
+								</td>
+							</tr>
+
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/the-time-machine"><img src="images/productions/the-time-machine/heading.png" alt="The Time Machine" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="https://www.quaysudbury.com/event/time-machine-thu-2018-10-25-1930">Quay Theatre, Sudbury</a>
+								</td>
+
+								<td class="production-date">
+								Thur October 25, 2018
+								</td>
+
+								<td>
+								01787 374745
+								</td>
+							</tr>
+							
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/the-time-machine"><img src="images/productions/the-time-machine/heading.png" alt="The Time Machine" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="https://www.canterburyfestival.co.uk/whats-on/performance/the-time-machine.aspx">St Mary's Studio, Canterbury</a>
+								</td>
+
+								<td class="production-date">
+								Fri October 26, 2018
+								</td>
+
+								<td>
+								01227 787787
 								</td>
 							</tr>
 						</table>
