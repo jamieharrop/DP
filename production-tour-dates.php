@@ -45,7 +45,7 @@
 								</a>
 							</li>
 
-							<li class="hide">
+							<li>
 								<a data-toggle="tab" id="dropdown2-tab" role="tab" href="#christmas-gothic">
 									Christmas Gothic
 								</a>
@@ -81,7 +81,7 @@
 								</a>
 							</li>
 
-							<li class="hide">
+							<li>
 								<a data-toggle="tab" id="dropdown9-tab" role="tab" href="#jane-eyre">
 									Jane Eyre - An Autobiography
 								</a>
@@ -93,7 +93,7 @@
 								</a>
 							</li>
 
-							<li>
+							<li class="hide">
 								<a data-toggle="tab" id="dropdown11-tab" role="tab" href="#orlando">
 									Orlando
 								</a>
@@ -107,183 +107,6 @@
 				<!-- Tab panes -->
 				<div class="tab-content">
 					<div role="tabpanel" class="tab-pane fade in active" id="all">
-						<table class="tour-dates-table">
-							<tr>
-								<td colspan="4" class="tour-date-month-header">
-									<h4>July 2018</h4>
-								</td>
-							</tr>
-
-							<tr>
-								<th class="dates-col-1">
-									<p>Production</p>
-								</th>
-
-								<th class="dates-col-2">
-									<p>Theatre</p>
-								</th>
-
-								<th class="dates-col-3">
-									<p>Date</p>
-								</th>
-
-								<th class="dates-col-4">
-									<p>Box Office</p>
-								</th>
-							</tr>
-
-							<tr>
-								<td class="production-name">
-									<a href="theatre-productions/the-time-machine"><img src="images/productions/the-time-machine/heading.png" alt="The Time Machine" class="tour-date-logo" /></a>
-								</td>
-
-								<td>
-									Brentwood Theatre
-								</td>
-
-								<td class="production-date">
-									Mon July 23, 2018
-								</td>
-
-								<td>
-								01227 200305
-								</td>
-							</tr>
-
-							<tr>
-								<td class="production-name">
-									<a href="theatre-productions/orlando"><img src="images/productions/orlando/heading.png" alt="Orlando" class="tour-date-logo" /></a>
-								</td>
-
-								<td>
-									<a href="http://www.maltingsartstheatre.co.uk/event/orlando/">Maltings Arts Theatre</a>
-								</td>
-
-								<td class="production-date">
-								Thur July 26, 2018
-								</td>
-
-								<td>
-								0333 666 3366
-								</td>
-							</tr>
-
-							<tr>
-								<td class="production-name">
-									<a href="theatre-productions/orlando"><img src="images/productions/orlando/heading.png" alt="Orlando" class="tour-date-logo" /></a>
-								</td>
-
-								<td>
-									<a href="http://www.maltingsartstheatre.co.uk/event/orlando/">Maltings Arts Theatre</a>
-								</td>
-
-								<td class="production-date">
-								Fri July 27, 2018
-								</td>
-
-								<td>
-								0333 666 3366
-								</td>
-							</tr>
-
-							<tr>
-								<td class="production-name">
-									<a href="theatre-productions/the-time-machine"><img src="images/productions/the-time-machine/heading.png" alt="The Time Machine" class="tour-date-logo" /></a>
-								</td>
-
-								<td>
-								<a href="https://www.dorchesterarts.org.uk/fri-27-july-•-the-time-machine-•-dyad-productions/">Dorchester Arts</a>
-								</td>
-
-								<td class="production-date">
-									Fri July 27, 2018
-								</td>
-
-								<td>
-								01305 266926
-								</td>
-							</tr>
-
-							<tr>
-							<td class="production-name">
-								<a href="theatre-productions/the-time-machine"><img src="images/productions/the-time-machine/heading.png" alt="The Time Machine" class="tour-date-logo" /></a>
-							</td>
-
-							<td>
-								<a href="https://www.courtyard.org.uk/2018/07/28">Courtyard Theatre, Hereford</a>
-							</td>
-
-							<td class="production-date">
-								Sat July 28, 2018
-							</td>
-
-							<td>
-							01432 340555
-							</td>
-						</tr>
-						</table>
-
-						<table class="tour-dates-table">
-							<tr>
-								<td colspan="4" class="tour-date-month-header">
-									<h4>August 2018</h4>
-								</td>
-							</tr>
-
-							<tr>
-								<th class="dates-col-1">
-									<p>Production</p>
-								</th>
-
-								<th class="dates-col-2">
-									<p>Theatre</p>
-								</th>
-
-								<th class="dates-col-3">
-									<p>Date</p>
-								</th>
-
-								<th class="dates-col-4">
-									<p>Box Office</p>
-								</th>
-							</tr>
-
-							<tr>
-								<td class="production-name">
-									<a href="theatre-productions/orlando"><img src="images/productions/orlando/heading.png" alt="Orlando" class="tour-date-logo" /></a>
-								</td>
-
-								<td>
-									<a href="https://www.assemblyfestival.com/whats-on/orlando">Assembly Roxy Upstairs (Edinburgh Festival Fringe)</a>
-								</td>
-
-								<td class="production-date">
-								August 2-27 (not 8, 14, 21) 11:30
-								</td>
-
-								<td>
-								0131 623 3030
-								</td>
-							</tr>
-
-							<tr>
-								<td class="production-name">
-									<a href="theatre-productions/the-time-machine"><img src="images/productions/the-time-machine/heading.png" alt="The Time Machine" class="tour-date-logo" /></a>
-								</td>
-
-								<td>
-									<a href="https://www.cstkc.com/time-machine">MET Theatre, Kansas City</a>
-								</td>
-
-								<td class="production-date">
-								August 16-19
-								</td>
-
-								<td>
-								+1 816 635 0543
-								</td>
-							</tr>
-						</table>
 
 						<table class="tour-dates-table">
 							<tr>
@@ -534,12 +357,14 @@
 								</td>
 							</tr>
 						</table>
-					</div>
 
-					<div role="tabpanel" class="tab-pane fade" id="christmas-gothic">
-						<p>We're sorry, there are no scheduled tour dates for this production. Please keep checking or subscribe to our newsletter to hear about our latest news and tour dates.</p>
+						<table class="tour-dates-table">
+							<tr>
+								<td colspan="4" class="tour-date-month-header">
+									<h4>November 2018</h4>
+								</td>
+							</tr>
 
-						<!--<table class="tour-dates-table" class="tab-pane fade" id="christmas-gothic-output">
 							<tr>
 								<th class="dates-col-1">
 									<p>Production</p>
@@ -557,7 +382,471 @@
 									<p>Box Office</p>
 								</th>
 							</tr>
-						</table>-->
+
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/jane-eyre-an-autobiography"><img src="images/productions/jane-eyre/heading.png" alt="Jane Eyre - An Autobiography" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="https://www.thebroadwaybarking.com/sales/genres/drama/jane-eyre---an-autobiography">Broadway Theatre, Barking</a>
+								</td>
+
+								<td class="production-date">
+								Thur November 1, 2018
+								</td>
+
+								<td>
+								020 8507 5607
+								</td>
+							</tr>
+
+							<tr>
+							<td class="production-name">
+								<a href="theatre-productions/jane-eyre-an-autobiography"><img src="images/productions/jane-eyre/heading.png" alt="Jane Eyre: An Autobiography" class="tour-date-logo" /></a>
+							</td>
+
+							<td>
+								<a href="http://www.lichfieldgarrick.com/whats-on/all-shows/jane-eyre-an-autobiography2312">Lichfield Garrick</a>
+							</td>
+
+							<td class="production-date">
+							Fri November 2, 2018
+							</td>
+
+							<td>
+							01543 412121
+							</td>
+						</tr>
+
+							<tr>
+								<td class="production-name">
+								<a href="theatre-productions/jane-eyre-an-autobiography"><img src="images/productions/jane-eyre/heading.png" alt="Jane Eyre: An Autobiography" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="http://www.stantonburytheatre.co.uk/whats-on/all-shows/jane-eyre-an-autobiography12317/">Stantonbury Theatre, Milton Keynes</a>
+								</td>
+
+								<td class="production-date">
+								Tue November 6, 2018
+								</td>
+
+								<td>
+								01908 324466
+								</td>
+							</tr>
+
+							<tr>
+							<td class="production-name">
+							<a href="theatre-productions/jane-eyre-an-autobiography"><img src="images/productions/jane-eyre/heading.png" alt="Jane Eyre: An Autobiography" class="tour-date-logo" /></a>
+							</td>
+
+							<td>
+								<a href="https://www.cstkc.com/jane-eyre">MET Theatre, Kansas City, MO, USA</a>
+							</td>
+
+							<td class="production-date">
+							Thur November 15, 2018
+							</td>
+
+							<td>
+							+44 816 635 0543
+							</td>
+						</tr>
+
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/the-time-machine"><img src="images/productions/the-time-machine/heading.png" alt="The Time Machine" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="https://www.theatkinson.co.uk/events/the-time-machine/">The Atkinson, Southport</a>
+								</td>
+
+								<td class="production-date">
+								Thur November 15, 2018
+								</td>
+
+								<td>
+								01704 533333
+								</td>
+							</tr>
+							
+							<tr>
+								<td class="production-name">
+								<a href="theatre-productions/jane-eyre-an-autobiography"><img src="images/productions/jane-eyre/heading.png" alt="Jane Eyre: An Autobiography" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="https://www.cstkc.com/jane-eyre">MET Theatre, Kansas City, MO, USA</a>
+								</td>
+
+								<td class="production-date">
+								Fri November 16, 2018
+								</td>
+
+								<td>
+								+44 816 635 0543
+								</td>
+							</tr>
+
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/the-time-machine"><img src="images/productions/the-time-machine/heading.png" alt="The Time Machine" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="https://www.oldlaundrytheatre.co.uk/event/the-time-machine/">Old Laundry Theatre, Bowness</a>
+								</td>
+
+								<td class="production-date">
+								Fri November 16, 2018
+								</td>
+
+								<td>
+								015394 40872
+								</td>
+							</tr>
+
+							<tr>
+								<td class="production-name">
+								<a href="theatre-productions/jane-eyre-an-autobiography"><img src="images/productions/jane-eyre/heading.png" alt="Jane Eyre: An Autobiography" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="https://www.cstkc.com/jane-eyre">MET Theatre, Kansas City, MO, USA</a>
+								</td>
+
+								<td class="production-date">
+								Sat November 17, 2018
+								</td>
+
+								<td>
+								+44 816 635 0543
+								</td>
+							</tr>
+
+							<tr>
+								<td class="production-name">
+								<a href="theatre-productions/jane-eyre-an-autobiography"><img src="images/productions/jane-eyre/heading.png" alt="Jane Eyre: An Autobiography" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="https://www.cstkc.com/jane-eyre">MET Theatre, Kansas City, MO, USA</a>
+								</td>
+
+								<td class="production-date">
+								Sun November 18, 2018
+								</td>
+
+								<td>
+								+44 816 635 0543
+								</td>
+							</tr>
+
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/the-time-machine"><img src="images/productions/the-time-machine/heading.png" alt="The Time Machine" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="https://www.middlesbroughtheatre.co.uk/shows/the-time-machine/">Middlesbrough Theatre</a>
+								</td>
+
+								<td class="production-date">
+								Sun November 18, 2018
+								</td>
+
+								<td>
+								01642 815181
+								</td>
+							</tr>
+
+							<tr>
+								<td class="production-name">
+								<a href="theatre-productions/jane-eyre-an-autobiography"><img src="images/productions/jane-eyre/heading.png" alt="Jane Eyre: An Autobiography" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="https://www.edgehill.ac.uk/events/2018/11/22/jane-eyre-an-autobiography">Arts Centre, Ormskirk, Lancashire</a>
+								</td>
+
+								<td class="production-date">
+								Thur November 22, 2018
+								</td>
+
+								<td>
+								01695 584480
+								</td>
+							</tr>
+
+							<tr>
+								<td class="production-name">
+								<a href="theatre-productions/jane-eyre-an-autobiography"><img src="images/productions/jane-eyre/heading.png" alt="Jane Eyre: An Autobiography" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="https://www.junctiongoole.co.uk/events/dyad-productions-jane-eyre-autobiography/">Junction, Goole</a>
+								</td>
+
+								<td class="production-date">
+								Fri November 23, 2018
+								</td>
+
+								<td>
+								01405 763652
+								</td>
+							</tr>
+						</table>
+
+						<table class="tour-dates-table">
+							<tr>
+								<td colspan="4" class="tour-date-month-header">
+									<h4>December 2018</h4>
+								</td>
+							</tr>
+
+							<tr>
+								<th class="dates-col-1">
+									<p>Production</p>
+								</th>
+
+								<th class="dates-col-2">
+									<p>Theatre</p>
+								</th>
+
+								<th class="dates-col-3">
+									<p>Date</p>
+								</th>
+
+								<th class="dates-col-4">
+									<p>Box Office</p>
+								</th>
+							</tr>
+
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/christmas-gothic"><img src="images/productions/christmas-gothic/heading.png" alt="Christmas Gothic" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="https://boroughtheatreabergavenny.co.uk/events/christmas-gothic">Borough Theatre, Abergavenny</a>
+								</td>
+
+								<td class="production-date">
+								Sat December 1, 2018
+								</td>
+
+								<td>
+								01873 850805
+								</td>
+							</tr>
+
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/christmas-gothic"><img src="images/productions/christmas-gothic/heading.png" alt="Christmas Gothic" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="https://www.dugdalecentre.co.uk/whats-on/christmas-gothic?spektrix_bounce=true">Dugdale Centre, Enfield</a>
+								</td>
+
+								<td class="production-date">
+								Mon December 3, 2018
+								</td>
+
+								<td>
+								020 8807 6680
+								</td>
+							</tr>
+
+							<tr>
+							<td class="production-name">
+								<a href="theatre-productions/christmas-gothic"><img src="images/productions/christmas-gothic/heading.png" alt="Christmas Gothic" class="tour-date-logo" /></a>
+							</td>
+
+							<td>
+								<a href="https://www.staffordgatehousetheatre.co.uk/en-GB/shows/christmas gothic 2018/events">Stafford Gatehouse</a>
+							</td>
+
+							<td class="production-date">
+							Tue December 4, 2018
+							</td>
+
+							<td>
+							01785 619080
+							</td>
+						</tr>
+
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/christmas-gothic"><img src="images/productions/christmas-gothic/heading.png" alt="Christmas Gothic" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="https://www.staffordgatehousetheatre.co.uk/en-GB/shows/christmas gothic 2018/events">Stafford Gatehouse</a>
+								</td>
+
+								<td class="production-date">
+								Weds December 5, 2018
+								</td>
+
+								<td>
+								01785 619080
+								</td>
+							</tr>
+
+							<tr>
+							<td class="production-name">
+								<a href="theatre-productions/christmas-gothic"><img src="images/productions/christmas-gothic/heading.png" alt="Christmas Gothic" class="tour-date-logo" /></a>
+							</td>
+
+							<td>
+								<a href="https://tickets.thebrindley.org.uk/en-GB/shows/christmas gothic/events/2">The Brindley, Runcorn</a>
+							</td>
+
+							<td class="production-date">
+							Tue December 11, 2018
+							</td>
+
+							<td>
+							0151 907 8360
+							</td>
+						</tr>
+
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/christmas-gothic"><img src="images/productions/christmas-gothic/heading.png" alt="Christmas Gothic" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="https://tickets.thebrindley.org.uk/en-GB/shows/christmas gothic/events/2">The Brindley, Runcorn</a>
+								</td>
+
+								<td class="production-date">
+								Weds December 12, 2018
+								</td>
+
+								<td>
+								0151 907 8360
+								</td>
+							</tr>
+
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/christmas-gothic"><img src="images/productions/christmas-gothic/heading.png" alt="Christmas Gothic" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="https://www.parkwoodtheatres.co.uk/The-Hawth/Show/88239636-ec4e-e811-a954-b02a750a0f5f/christmas-gothic">Hawth Theatre, Crawley</a>
+								</td>
+
+								<td class="production-date">
+								Fri December 14, 2018
+								</td>
+
+								<td>
+								01293 553636
+								</td>
+							</tr>
+
+							<tr>
+							<td class="production-name">
+								<a href="theatre-productions/christmas-gothic"><img src="images/productions/christmas-gothic/heading.png" alt="Christmas Gothic" class="tour-date-logo" /></a>
+							</td>
+
+							<td>
+								<a href="https://www.chelmsford.gov.uk/theatres/whats-on/drama/christmas-gothic">Cramphorn Theatre, Chelmsford</a>
+							</td>
+
+							<td class="production-date">
+							Sun December 16, 2018
+							</td>
+
+							<td>
+							01245 606505
+							</td>
+						</tr>
+
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/christmas-gothic"><img src="images/productions/christmas-gothic/heading.png" alt="Christmas Gothic" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="https://www.chelmsford.gov.uk/theatres/whats-on/drama/christmas-gothic">Cramphorn Theatre, Chelmsford</a>
+								</td>
+
+								<td class="production-date">
+								Mon December 17, 2018
+								</td>
+
+								<td>
+								01245 606505
+								</td>
+							</tr>
+
+							<tr>
+							<td class="production-name">
+								<a href="theatre-productions/christmas-gothic"><img src="images/productions/christmas-gothic/heading.png" alt="Christmas Gothic" class="tour-date-logo" /></a>
+							</td>
+
+							<td>
+								<a href="http://www.yvonne-arnaud.co.uk/production/christmas-gothic-0">Yvonne Arnaud Theatre, Guildford</a>
+							</td>
+
+							<td class="production-date">
+							Tue December 18, 2018
+							</td>
+
+							<td>
+							01483 440000
+							</td>
+						</tr>
+
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/christmas-gothic"><img src="images/productions/christmas-gothic/heading.png" alt="Christmas Gothic" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="http://www.yvonne-arnaud.co.uk/production/christmas-gothic-0">Yvonne Arnaud Theatre, Guildford</a>
+								</td>
+
+								<td class="production-date">
+								Wed December 19, 2018
+								</td>
+
+								<td>
+								01483 440000
+								</td>
+							</tr>
+						</table>
+					</div>
+
+					<div role="tabpanel" class="tab-pane fade" id="christmas-gothic">
+						<!--<p>We're sorry, there are no scheduled tour dates for this production. Please keep checking or subscribe to our newsletter to hear about our latest news and tour dates.</p>-->
+
+						<table class="tour-dates-table" class="tab-pane fade" id="christmas-gothic-output">
+							<tr>
+								<th class="dates-col-1">
+									<p>Production</p>
+								</th>
+
+								<th class="dates-col-2">
+									<p>Theatre</p>
+								</th>
+
+								<th class="dates-col-3">
+									<p>Date</p>
+								</th>
+
+								<th class="dates-col-4">
+									<p>Box Office</p>
+								</th>
+							</tr>
+						</table>
 					</div>
 
 					<div role="tabpanel" class="tab-pane fade" id="dalloway">
@@ -705,9 +994,9 @@
 					</div>
 
 					<div role="tabpanel" class="tab-pane fade" id="jane-eyre">
-						<p>We're sorry, there are no scheduled tour dates for this production. Please keep checking or subscribe to our newsletter to hear about our latest news and tour dates.</p>
+						<!--<p>We're sorry, there are no scheduled tour dates for this production. Please keep checking or subscribe to our newsletter to hear about our latest news and tour dates.</p>-->
 
-						<!--<table class="tour-dates-table" id="jane-eyre-output">
+						<table class="tour-dates-table" id="jane-eyre-output">
 							<tr>
 								<th class="dates-col-1">
 									<p>Production</p>
@@ -725,7 +1014,7 @@
 									<p>Box Office</p>
 								</th>
 							</tr>
-						</table>-->
+						</table>
 					</div>
 
 					<div role="tabpanel" class="tab-pane fade" id="the-time-machine">
@@ -753,9 +1042,9 @@
 					</div>
 					
 					<div role="tabpanel" class="tab-pane fade" id="orlando">
-						<!--<p>We're sorry, there are no scheduled tour dates for this production. Please keep checking or subscribe to our newsletter to hear about our latest news and tour dates.</p>-->
+						<p>We're sorry, there are no scheduled tour dates for this production. Please keep checking or subscribe to our newsletter to hear about our latest news and tour dates.</p>
 
-						<table class="tour-dates-table" id="orlando-output">
+						<!--<table class="tour-dates-table" id="orlando-output">
 							<tr>
 								<th class="dates-col-1">
 									<p>Production</p>
@@ -773,7 +1062,7 @@
 									<p>Box Office</p>
 								</th>
 							</tr>
-						</table>
+						</table>-->sw
 					</div>
 				</div>
 			</div>
