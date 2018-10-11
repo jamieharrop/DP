@@ -50,6 +50,24 @@
 								<img data-img-modal="../../images/productions/orlando/gallery/002.jpg" src="../../images/productions/orlando/gallery/002.jpg" class="thumbnail img-responsive" alt="Second Gallery Image">
 							</a>
 						</div>
+
+						<div class="col-lg-2 col-md-2 col-sm-3 col-xs-6">
+							<a href="../../images/productions/orlando/gallery/003-h.jpg" class="small-gallery">
+								<img data-img-modal="../../images/productions/orlando/gallery/003.jpg" src="../../images/productions/orlando/gallery/003.jpg" class="thumbnail img-responsive" alt="Third Gallery Image">
+							</a>
+						</div>
+
+						<div class="col-lg-2 col-md-2 col-sm-3 col-xs-6">
+							<a href="../../images/productions/orlando/gallery/004-h.jpg" class="small-gallery">
+								<img data-img-modal="../../images/productions/orlando/gallery/004.jpg" src="../../images/productions/orlando/gallery/004.jpg" class="thumbnail img-responsive" alt="Fourth Gallery Image">
+							</a>
+						</div>
+
+						<div class="col-lg-2 col-md-2 col-sm-3 col-xs-6">
+							<a href="../../images/productions/orlando/gallery/005-h.jpg" class="small-gallery">
+								<img data-img-modal="../../images/productions/orlando/gallery/005.jpg" src="../../images/productions/orlando/gallery/005.jpg" class="thumbnail img-responsive" alt="Fifth Gallery Image">
+							</a>
+						</div>
 					</div>
 
 					<div id="myModal" class="modal fade" tabindex="-1" role="dialog">
