@@ -55,7 +55,7 @@
 									<div class="holder">
 										<div class="publisher">
 											<h3><b>NEW SHOW! Orlando</b><br>
-											Orlando: Who is she? Who is he? Who are we? Find out in this life-affirming, comedic tale - Premiering at this year's Edinburgh Festival Fringe, at Assembly: 2-27 August</h3>
+											Orlando: Who is she?  Who is he?  Who are we?  Find out in this award-winning, life-affirming comedic tale</h3>
 										</div>
 									</div>
 								</div>
