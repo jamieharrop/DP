@@ -42,13 +42,15 @@
 
 					<h5>Dyad Productions</h5>
 					
-					<p>From the creators of <i>Jane Eyre: An Autobiography, Dalloway, The Unremarkable Death of Marilyn Monroe, Christmas Gothic, I, Elizabeth, Female Gothic</i> and <i>Austen's Women</i>.</p>
-
-					<p>2018: In this age of uncertainty, where the shadows of tyranny, intolerance and war darken the path into tomorrow, how much time do we have left?  If civilisation falls today, what will become of us?</p>
-
-					<p>In producer Rebecca Vaughan and writer/director Elton Townend Jones' new and radical interpretation of the HG Wells classic, a Victorian time traveller transcends across the ages from 1900 to our own far future – from the fall of man to the end of the world – discovering the fate of our endeavours and uncovering our darkest fears. Can we change the future?  Or has the end already begun?</p>
+					<p>From the creators of <em><b>Orlando, Jane Eyre: An Autobiography, Austen's Women, Christmas Gothic, Dalloway, I, Elizabeth, The Unremarkable Death of Marilyn Monroe,</b></em> and <em><b>Female Gothic</b></em>.</p>
 
 					<p>A philosophical journey, a nightmare adventure, a cautionary tale – this is the story of us all.</p>
+					
+					<p>2019: In this age of uncertainty, where the shadows of tyranny, intolerance and war darken the path into tomorrow, how much time do we have left?  If civilisation falls today, what will become of us?</p>
+					
+					<p>In Rebecca Vaughan and Elton Townend Jones' radical new interpretation of the HG Wells classic, a Victorian time traveller transcends across the ages from 1900 to our own far future – from the fall of man to the end of the world.</p>
+					
+					<p>Can <em>we</em> change the future?  Or has the end already begun?</p>
 
 					<p>
 						<i class="fa fa-star"></i>
@@ -64,7 +66,7 @@
 						<i class="fa fa-star"></i>
 						<i class="fa fa-star"></i>
 						<i class="fa fa-star"></i>
-						"Terrific… grips the imagination... ideas spit off the narrative like sparks from a welder’s torch" (Quentin Letts, Daily Mail)
+						"Terrific… grips the imagination... ideas spit off the narrative like sparks from a welder's torch" (Quentin Letts, Daily Mail)
 					</p>
 
 					<p>
