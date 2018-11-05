@@ -21,7 +21,7 @@
     			</a>
 
     			<ul class="dropdown-menu">
-      				<!--<li id="sub-menu-suggested-copy"><a href="press-release.pdf" title="Download PDF Press Release">Press Release</a></li>-->
+      				<li id="sub-menu-suggested-copy"><a href="press-release.pdf" title="Download PDF Press Release">Press Release</a></li>
 					<li id="sub-menu-suggested-copy"><a href="suggested-copy.php">Suggested Copy</a></li>
 					<li id="sub-menu-technical-rider"><a href="technical-rider.php">Technical Rider</a></li>
     			</ul>
