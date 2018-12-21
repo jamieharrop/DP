@@ -97,7 +97,19 @@
 
 						<div class="col-lg-2 col-md-2 col-sm-3 col-xs-6">
 							<a href="../../images/productions/i-elizabeth/gallery/010-h.jpg" class="small-gallery">
-								<img data-img-modal="../../images/productions/i-elizabeth/gallery/010-m.jpg" src="../../images/productions/i-elizabeth/gallery/010.jpg" class="thumbnail img-responsive" alt="Eleventh Gallery Image">
+								<img data-img-modal="../../images/productions/i-elizabeth/gallery/010-m.jpg" src="../../images/productions/i-elizabeth/gallery/010.jpg" class="thumbnail img-responsive" alt="10th Gallery Image">
+							</a>
+						</div>
+
+						<div class="col-lg-2 col-md-2 col-sm-3 col-xs-6">
+							<a href="../../images/productions/i-elizabeth/gallery/011-h.jpg" class="small-gallery">
+								<img data-img-modal="../../images/productions/i-elizabeth/gallery/011-m.jpg" src="../../images/productions/i-elizabeth/gallery/011.jpg" class="thumbnail img-responsive" alt="11th Gallery Image">
+							</a>
+						</div>
+
+						<div class="col-lg-2 col-md-2 col-sm-3 col-xs-6">
+							<a href="../../images/productions/i-elizabeth/gallery/012-h.jpg" class="small-gallery">
+								<img data-img-modal="../../images/productions/i-elizabeth/gallery/012-m.jpg" src="../../images/productions/i-elizabeth/gallery/012.jpg" class="thumbnail img-responsive" alt="12th Gallery Image">
 							</a>
 						</div>
 					</div>
