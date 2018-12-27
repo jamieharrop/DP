@@ -45,7 +45,7 @@
 								</a>
 							</li>
 
-							<li>
+							<li class="hide">
 								<a data-toggle="tab" id="dropdown2-tab" role="tab" href="#christmas-gothic">
 									Christmas Gothic
 								</a>
@@ -81,7 +81,7 @@
 								</a>
 							</li>
 
-							<li>
+							<li class="hide">
 								<a data-toggle="tab" id="dropdown9-tab" role="tab" href="#jane-eyre">
 									Jane Eyre - An Autobiography
 								</a>
@@ -93,7 +93,7 @@
 								</a>
 							</li>
 
-							<li class="hide">
+							<li>
 								<a data-toggle="tab" id="dropdown11-tab" role="tab" href="#orlando">
 									Orlando
 								</a>
@@ -111,7 +111,7 @@
 						<table class="tour-dates-table">
 							<tr>
 								<td colspan="4" class="tour-date-month-header">
-									<h4>October 2018</h4>
+									<h4>February 2019</h4>
 								</td>
 							</tr>
 
@@ -135,33 +135,257 @@
 
 							<tr>
 								<td class="production-name">
-									<a href="theatre-productions/the-time-machine"><img src="images/productions/the-time-machine/heading.png" alt="The Time Machine" class="tour-date-logo" /></a>
+									<a href="theatre-productions/orlando"><img src="images/productions/orlando/heading.png" alt="Orlando" class="tour-date-logo" /></a>
 								</td>
 
 								<td>
-									<a href="https://www.forest-arts.co.uk/event/time-machine">Forest Arts Centre, New Milton</a>
+									<a href="https://www.siamsatire.com/events/orlando">Siamsa Tire, Tralee, Ireland</a>
 								</td>
 
 								<td class="production-date">
-								Thur October 18, 2018
+								Wed February 20, 2019
 								</td>
 
 								<td>
-								01425 619983
+								+353 66 7123055
 								</td>
 							</tr>
 
 							<tr>
 								<td class="production-name">
-									<a href="theatre-productions/the-time-machine"><img src="images/productions/the-time-machine/heading.png" alt="The Time Machine" class="tour-date-logo" /></a>
+									<a href="theatre-productions/orlando"><img src="images/productions/orlando/heading.png" alt="Orlando" class="tour-date-logo" /></a>
 								</td>
 
 								<td>
-									<a href="https://www.pavilionsteignmouth.org.uk/events/time-machine">Pavilions, Teignmouth</a>
+									<a href="https://watergatetheatre.ticketsolve.com/shows/873599466">Watergate Theatre Kilkenny, Ireland</a>
 								</td>
 
 								<td class="production-date">
-								Fri October 19, 2018
+								Thur February 21, 2019
+								</td>
+
+								<td>
+								+353 56 776 1674
+								</td>
+							</tr>
+
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/orlando"><img src="images/productions/orlando/heading.png" alt="Orlando" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="https://www.islandartscentre.com/whatson/2018/11/orlando?epc=6&c=0">Island Arts Centre, Lisburn</a>
+								</td>
+
+								<td class="production-date">
+								Fri February 22, 2019
+								</td>
+
+								<td>
+								028 92 509 254
+								</td>
+							</tr>
+
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/orlando"><img src="images/productions/orlando/heading.png" alt="Orlando" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="https://oldcourthouse.ticketsolve.com/shows/873598317">Old Courthouse, Antrim, NI</a>
+								</td>
+
+								<td class="production-date">
+								Sat February 23, 2019
+								</td>
+
+								<td>
+								028 9446 3113
+								</td>
+							</tr>
+
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/orlando"><img src="images/productions/orlando/heading.png" alt="Orlando" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="https://marketplacearmagh.ticketsolve.com/shows/873596454">Market Place Theatre, Armagh, NI</a>
+								</td>
+
+								<td class="production-date">
+								Wed February 27, 2019
+								</td>
+
+								<td>
+								028 3752 1821
+								</td>
+							</tr>
+						</table>
+
+						<table class="tour-dates-table">
+							<tr>
+								<td colspan="4" class="tour-date-month-header">
+									<h4>March 2019</h4>
+								</td>
+							</tr>
+
+							<tr>
+								<th class="dates-col-1">
+									<p>Production</p>
+								</th>
+
+								<th class="dates-col-2">
+									<p>Theatre</p>
+								</th>
+
+								<th class="dates-col-3">
+									<p>Date</p>
+								</th>
+
+								<th class="dates-col-4">
+									<p>Box Office</p>
+								</th>
+							</tr>
+
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/orlando"><img src="images/productions/orlando/heading.png" alt="Orlando" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="http://www.norwichplayhouse.co.uk/whats-on/detail/orlando">Norwich Playhouse</a>
+								</td>
+
+								<td class="production-date">
+								Wed March 6, 2019
+								</td>
+
+								<td>
+								01603 598598
+								</td>
+							</tr>
+
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/orlando"><img src="images/productions/orlando/heading.png" alt="Orlando" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="http://www.worcesterlive.co.uk/events_review.asp?eid=453061182">Swan Theatre, Worcester</a>
+								</td>
+
+								<td class="production-date">
+								Fri March 8, 2019
+								</td>
+
+								<td>
+								01905 611427
+								</td>
+							</tr>
+
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/orlando"><img src="images/productions/orlando/heading.png" alt="Orlando" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="https://www.theatresevern.co.uk/shows/drama/orlando/">Theatre Severn</a>
+								</td>
+
+								<td class="production-date">
+								Sat March 9, 2019
+								</td>
+
+								<td>
+								01743 281281
+								</td>
+							</tr>
+
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/orlando"><img src="images/productions/orlando/heading.png" alt="Orlando" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="https://www.bridport-arts.com/event/orlando/">Bridport Arts Centre</a>
+								</td>
+
+								<td class="production-date">
+								Tue March 12, 2019
+								</td>
+
+								<td>
+								01308 424204
+								</td>
+							</tr>
+
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/orlando"><img src="images/productions/orlando/heading.png" alt="Orlando" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="https://www.hampshireculture.org.uk/event/orlando">West End Centre, Aldershot</a>
+								</td>
+
+								<td class="production-date">
+								Wed March 13, 2019
+								</td>
+
+								<td>
+								01252 330040
+								</td>
+							</tr>
+
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/orlando"><img src="images/productions/orlando/heading.png" alt="Orlando" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="https://lakesidetheatre.org.uk/events/orlando/">Lakeside Theatre, Colchester</a>
+								</td>
+
+								<td class="production-date">
+								Thur March 14, 2019
+								</td>
+
+								<td>
+								01206 873261
+								</td>
+							</tr>
+
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/orlando"><img src="images/productions/orlando/heading.png" alt="Orlando" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="https://www.parkwoodtheatres.co.uk/The-Hawth/show/bb457289-ba6e-e811-a956-c5c7172fc81d/orlando">Hawth Theatre, Crawley</a>
+								</td>
+
+								<td class="production-date">
+								Fri March 15, 2019
+								</td>
+
+								<td>
+								01293 553636
+								</td>
+							</tr>
+
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/orlando"><img src="images/productions/orlando/heading.png" alt="Orlando" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="https://www.pavilionsteignmouth.org.uk/events/dyad-productions-orlando">Pavilions Teignmouth</a>
+								</td>
+
+								<td class="production-date">
+								Sun March 17, 2019
 								</td>
 
 								<td>
@@ -175,459 +399,119 @@
 								</td>
 
 								<td>
-									<a href="https://www.quaysudbury.com/event/time-machine-thu-2018-10-25-1930">Quay Theatre, Sudbury</a>
+									<a href="https://audentheatre.ticketsolve.com/shows/873595864">Auden Theatre, Holt</a>
 								</td>
 
 								<td class="production-date">
-								Thur October 25, 2018
+								Mon March 18, 2019
+								</td>
+
+								<td>
+								01263 713444
+								</td>
+							</tr>
+
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/orlando"><img src="images/productions/orlando/heading.png" alt="Orlando" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									Stables Theatre, Hastings
+								</td>
+
+								<td class="production-date">
+								Thur March 21, 2019
+								</td>
+
+								<td>
+								01424 423221
+								</td>
+							</tr>
+
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/orlando"><img src="images/productions/orlando/heading.png" alt="Orlando" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									Stables Theatre, Hastings
+								</td>
+
+								<td class="production-date">
+								Fri March 22, 2019
+								</td>
+
+								<td>
+								01424 423221
+								</td>
+							</tr>
+
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/orlando"><img src="images/productions/orlando/heading.png" alt="Orlando" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+								<a href="https://www.yorktheatreroyal.co.uk/event/orlando.php#.XBRA6i90eRs">York Theatre Royal</a>
+								</td>
+
+								<td class="production-date">
+								Tue March 26, 2019
+								</td>
+
+								<td>
+								01904 623568
+								</td>
+							</tr>
+
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/orlando"><img src="images/productions/orlando/heading.png" alt="Orlando" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+								<a href="http://www.blackfriarsartscentre.co.uk/Orlando">Blackfriars Theatre, Boston, Lincs</a>
+								</td>
+
+								<td class="production-date">
+								Wed March 27, 2019
+								</td>
+
+								<td>
+								01205 363108
+								</td>
+							</tr>
+
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/orlando"><img src="images/productions/orlando/heading.png" alt="Orlando" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+								<a href="https://www.quaysudbury.com/event/orlando-thu-2019-03-28-1930">Quay Theatre, Sudbury</a>
+								</td>
+
+								<td class="production-date">
+								Thur March 28, 2019
 								</td>
 
 								<td>
 								01787 374745
 								</td>
 							</tr>
-							
-							<tr>
-								<td class="production-name">
-									<a href="theatre-productions/the-time-machine"><img src="images/productions/the-time-machine/heading.png" alt="The Time Machine" class="tour-date-logo" /></a>
-								</td>
-
-								<td>
-									<a href="https://www.canterburyfestival.co.uk/whats-on/performance/the-time-machine.aspx">St Mary's Studio, Canterbury</a>
-								</td>
-
-								<td class="production-date">
-								Fri October 26, 2018
-								</td>
-
-								<td>
-								01227 787787
-								</td>
-							</tr>
-						</table>
-
-						<table class="tour-dates-table">
-							<tr>
-								<td colspan="4" class="tour-date-month-header">
-									<h4>November 2018</h4>
-								</td>
-							</tr>
-
-							<tr>
-								<th class="dates-col-1">
-									<p>Production</p>
-								</th>
-
-								<th class="dates-col-2">
-									<p>Theatre</p>
-								</th>
-
-								<th class="dates-col-3">
-									<p>Date</p>
-								</th>
-
-								<th class="dates-col-4">
-									<p>Box Office</p>
-								</th>
-							</tr>
 
 							<tr>
 								<td class="production-name">
-									<a href="theatre-productions/jane-eyre-an-autobiography"><img src="images/productions/jane-eyre/heading.png" alt="Jane Eyre - An Autobiography" class="tour-date-logo" /></a>
+									<a href="theatre-productions/orlando"><img src="images/productions/orlando/heading.png" alt="Orlando" class="tour-date-logo" /></a>
 								</td>
 
 								<td>
-									<a href="https://www.thebroadwaybarking.com/sales/genres/drama/jane-eyre---an-autobiography">Broadway Theatre, Barking</a>
+								<a href="https://www.chelmsford.gov.uk/theatres/whats-on/drama/orlando/">Cramphorn Studio, Chelmsford</a>
 								</td>
 
 								<td class="production-date">
-								Thur November 1, 2018
-								</td>
-
-								<td>
-								020 8507 5607
-								</td>
-							</tr>
-
-							<tr>
-							<td class="production-name">
-								<a href="theatre-productions/jane-eyre-an-autobiography"><img src="images/productions/jane-eyre/heading.png" alt="Jane Eyre: An Autobiography" class="tour-date-logo" /></a>
-							</td>
-
-							<td>
-								<a href="http://www.lichfieldgarrick.com/whats-on/all-shows/jane-eyre-an-autobiography/2312">Lichfield Garrick</a>
-							</td>
-
-							<td class="production-date">
-							Fri November 2, 2018
-							</td>
-
-							<td>
-							01543 412121
-							</td>
-						</tr>
-
-							<tr>
-								<td class="production-name">
-								<a href="theatre-productions/jane-eyre-an-autobiography"><img src="images/productions/jane-eyre/heading.png" alt="Jane Eyre: An Autobiography" class="tour-date-logo" /></a>
-								</td>
-
-								<td>
-									<a href="http://www.stantonburytheatre.co.uk/whats-on/all-shows/jane-eyre-an-autobiography/12317/">Stantonbury Theatre, Milton Keynes</a>
-								</td>
-
-								<td class="production-date">
-								Tue November 6, 2018
-								</td>
-
-								<td>
-								01908 324466
-								</td>
-							</tr>
-
-							<tr>
-							<td class="production-name">
-							<a href="theatre-productions/jane-eyre-an-autobiography"><img src="images/productions/jane-eyre/heading.png" alt="Jane Eyre: An Autobiography" class="tour-date-logo" /></a>
-							</td>
-
-							<td>
-								<a href="https://www.cstkc.com/jane-eyre">MET Theatre, Kansas City, MO, USA</a>
-							</td>
-
-							<td class="production-date">
-							Thur November 15, 2018
-							</td>
-
-							<td>
-							+44 816 635 0543
-							</td>
-						</tr>
-
-							<tr>
-								<td class="production-name">
-									<a href="theatre-productions/the-time-machine"><img src="images/productions/the-time-machine/heading.png" alt="The Time Machine" class="tour-date-logo" /></a>
-								</td>
-
-								<td>
-									<a href="https://www.theatkinson.co.uk/events/the-time-machine/">The Atkinson, Southport</a>
-								</td>
-
-								<td class="production-date">
-								Thur November 15, 2018
-								</td>
-
-								<td>
-								01704 533333
-								</td>
-							</tr>
-							
-							<tr>
-								<td class="production-name">
-								<a href="theatre-productions/jane-eyre-an-autobiography"><img src="images/productions/jane-eyre/heading.png" alt="Jane Eyre: An Autobiography" class="tour-date-logo" /></a>
-								</td>
-
-								<td>
-									<a href="https://www.cstkc.com/jane-eyre">MET Theatre, Kansas City, MO, USA</a>
-								</td>
-
-								<td class="production-date">
-								Fri November 16, 2018
-								</td>
-
-								<td>
-								+44 816 635 0543
-								</td>
-							</tr>
-
-							<tr>
-								<td class="production-name">
-									<a href="theatre-productions/the-time-machine"><img src="images/productions/the-time-machine/heading.png" alt="The Time Machine" class="tour-date-logo" /></a>
-								</td>
-
-								<td>
-									<a href="https://www.oldlaundrytheatre.co.uk/event/the-time-machine/">Old Laundry Theatre, Bowness</a>
-								</td>
-
-								<td class="production-date">
-								Fri November 16, 2018
-								</td>
-
-								<td>
-								015394 40872
-								</td>
-							</tr>
-
-							<tr>
-								<td class="production-name">
-								<a href="theatre-productions/jane-eyre-an-autobiography"><img src="images/productions/jane-eyre/heading.png" alt="Jane Eyre: An Autobiography" class="tour-date-logo" /></a>
-								</td>
-
-								<td>
-									<a href="https://www.cstkc.com/jane-eyre">MET Theatre, Kansas City, MO, USA</a>
-								</td>
-
-								<td class="production-date">
-								Sat November 17, 2018
-								</td>
-
-								<td>
-								+44 816 635 0543
-								</td>
-							</tr>
-
-							<tr>
-								<td class="production-name">
-								<a href="theatre-productions/jane-eyre-an-autobiography"><img src="images/productions/jane-eyre/heading.png" alt="Jane Eyre: An Autobiography" class="tour-date-logo" /></a>
-								</td>
-
-								<td>
-									<a href="https://www.cstkc.com/jane-eyre">MET Theatre, Kansas City, MO, USA</a>
-								</td>
-
-								<td class="production-date">
-								Sun November 18, 2018
-								</td>
-
-								<td>
-								+44 816 635 0543
-								</td>
-							</tr>
-
-							<tr>
-								<td class="production-name">
-									<a href="theatre-productions/the-time-machine"><img src="images/productions/the-time-machine/heading.png" alt="The Time Machine" class="tour-date-logo" /></a>
-								</td>
-
-								<td>
-									<a href="https://www.middlesbroughtheatre.co.uk/shows/the-time-machine/">Middlesbrough Theatre</a>
-								</td>
-
-								<td class="production-date">
-								Sun November 18, 2018
-								</td>
-
-								<td>
-								01642 815181
-								</td>
-							</tr>
-
-							<tr>
-								<td class="production-name">
-								<a href="theatre-productions/jane-eyre-an-autobiography"><img src="images/productions/jane-eyre/heading.png" alt="Jane Eyre: An Autobiography" class="tour-date-logo" /></a>
-								</td>
-
-								<td>
-									<a href="https://www.edgehill.ac.uk/events/2018/11/22/jane-eyre-an-autobiography">Arts Centre, Ormskirk, Lancashire</a>
-								</td>
-
-								<td class="production-date">
-								Thur November 22, 2018
-								</td>
-
-								<td>
-								01695 584480
-								</td>
-							</tr>
-
-							<tr>
-								<td class="production-name">
-								<a href="theatre-productions/jane-eyre-an-autobiography"><img src="images/productions/jane-eyre/heading.png" alt="Jane Eyre: An Autobiography" class="tour-date-logo" /></a>
-								</td>
-
-								<td>
-									<a href="https://www.junctiongoole.co.uk/events/dyad-productions-jane-eyre-autobiography/">Junction, Goole</a>
-								</td>
-
-								<td class="production-date">
-								Fri November 23, 2018
-								</td>
-
-								<td>
-								01405 763652
-								</td>
-							</tr>
-						</table>
-
-						<table class="tour-dates-table">
-							<tr>
-								<td colspan="4" class="tour-date-month-header">
-									<h4>December 2018</h4>
-								</td>
-							</tr>
-
-							<tr>
-								<th class="dates-col-1">
-									<p>Production</p>
-								</th>
-
-								<th class="dates-col-2">
-									<p>Theatre</p>
-								</th>
-
-								<th class="dates-col-3">
-									<p>Date</p>
-								</th>
-
-								<th class="dates-col-4">
-									<p>Box Office</p>
-								</th>
-							</tr>
-
-							<tr>
-								<td class="production-name">
-									<a href="theatre-productions/christmas-gothic"><img src="images/productions/christmas-gothic/heading.png" alt="Christmas Gothic" class="tour-date-logo" /></a>
-								</td>
-
-								<td>
-									<a href="https://boroughtheatreabergavenny.co.uk/events/christmas-gothic">Borough Theatre, Abergavenny</a>
-								</td>
-
-								<td class="production-date">
-								Sat December 1, 2018
-								</td>
-
-								<td>
-								01873 850805
-								</td>
-							</tr>
-
-							<tr>
-								<td class="production-name">
-									<a href="theatre-productions/christmas-gothic"><img src="images/productions/christmas-gothic/heading.png" alt="Christmas Gothic" class="tour-date-logo" /></a>
-								</td>
-
-								<td>
-									<a href="https://www.dugdalecentre.co.uk/whats-on/christmas-gothic?spektrix_bounce=true">Dugdale Centre, Enfield</a>
-								</td>
-
-								<td class="production-date">
-								Mon December 3, 2018
-								</td>
-
-								<td>
-								020 8807 6680
-								</td>
-							</tr>
-
-							<tr>
-							<td class="production-name">
-								<a href="theatre-productions/christmas-gothic"><img src="images/productions/christmas-gothic/heading.png" alt="Christmas Gothic" class="tour-date-logo" /></a>
-							</td>
-
-							<td>
-								<a href="https://www.staffordgatehousetheatre.co.uk/en-GB/shows/christmas gothic 2018/events">Stafford Gatehouse</a>
-							</td>
-
-							<td class="production-date">
-							Tue December 4, 2018
-							</td>
-
-							<td>
-							01785 619080
-							</td>
-						</tr>
-
-							<tr>
-								<td class="production-name">
-									<a href="theatre-productions/christmas-gothic"><img src="images/productions/christmas-gothic/heading.png" alt="Christmas Gothic" class="tour-date-logo" /></a>
-								</td>
-
-								<td>
-									<a href="https://www.staffordgatehousetheatre.co.uk/en-GB/shows/christmas gothic 2018/events">Stafford Gatehouse</a>
-								</td>
-
-								<td class="production-date">
-								Weds December 5, 2018
-								</td>
-
-								<td>
-								01785 619080
-								</td>
-							</tr>
-
-							<tr>
-							<td class="production-name">
-								<a href="theatre-productions/christmas-gothic"><img src="images/productions/christmas-gothic/heading.png" alt="Christmas Gothic" class="tour-date-logo" /></a>
-							</td>
-
-							<td>
-								<a href="https://tickets.thebrindley.org.uk/en-GB/shows/christmas gothic/events/2">The Brindley, Runcorn</a>
-							</td>
-
-							<td class="production-date">
-							Tue December 11, 2018
-							</td>
-
-							<td>
-							0151 907 8360
-							</td>
-						</tr>
-
-							<tr>
-								<td class="production-name">
-									<a href="theatre-productions/christmas-gothic"><img src="images/productions/christmas-gothic/heading.png" alt="Christmas Gothic" class="tour-date-logo" /></a>
-								</td>
-
-								<td>
-									<a href="https://tickets.thebrindley.org.uk/en-GB/shows/christmas gothic/events/2">The Brindley, Runcorn</a>
-								</td>
-
-								<td class="production-date">
-								Weds December 12, 2018
-								</td>
-
-								<td>
-								0151 907 8360
-								</td>
-							</tr>
-
-							<tr>
-								<td class="production-name">
-									<a href="theatre-productions/christmas-gothic"><img src="images/productions/christmas-gothic/heading.png" alt="Christmas Gothic" class="tour-date-logo" /></a>
-								</td>
-
-								<td>
-									<a href="https://www.parkwoodtheatres.co.uk/The-Hawth/Show/88239636-ec4e-e811-a954-b02a750a0f5f/christmas-gothic">Hawth Theatre, Crawley</a>
-								</td>
-
-								<td class="production-date">
-								Fri December 14, 2018
-								</td>
-
-								<td>
-								01293 553636
-								</td>
-							</tr>
-
-							<tr>
-							<td class="production-name">
-								<a href="theatre-productions/christmas-gothic"><img src="images/productions/christmas-gothic/heading.png" alt="Christmas Gothic" class="tour-date-logo" /></a>
-							</td>
-
-							<td>
-								<a href="https://www.chelmsford.gov.uk/theatres/whats-on/drama/christmas-gothic">Cramphorn Theatre, Chelmsford</a>
-							</td>
-
-							<td class="production-date">
-							Sun December 16, 2018
-							</td>
-
-							<td>
-							01245 606505
-							</td>
-						</tr>
-
-							<tr>
-								<td class="production-name">
-									<a href="theatre-productions/christmas-gothic"><img src="images/productions/christmas-gothic/heading.png" alt="Christmas Gothic" class="tour-date-logo" /></a>
-								</td>
-
-								<td>
-									<a href="https://www.chelmsford.gov.uk/theatres/whats-on/drama/christmas-gothic">Cramphorn Theatre, Chelmsford</a>
-								</td>
-
-								<td class="production-date">
-								Mon December 17, 2018
+								Fri March 29, 2019
 								</td>
 
 								<td>
@@ -636,47 +520,31 @@
 							</tr>
 
 							<tr>
-							<td class="production-name">
-								<a href="theatre-productions/christmas-gothic"><img src="images/productions/christmas-gothic/heading.png" alt="Christmas Gothic" class="tour-date-logo" /></a>
-							</td>
-
-							<td>
-								<a href="http://www.yvonne-arnaud.co.uk/production/christmas-gothic-0">Yvonne Arnaud Theatre, Guildford</a>
-							</td>
-
-							<td class="production-date">
-							Tue December 18, 2018
-							</td>
-
-							<td>
-							01483 440000
-							</td>
-						</tr>
-
-							<tr>
 								<td class="production-name">
-									<a href="theatre-productions/christmas-gothic"><img src="images/productions/christmas-gothic/heading.png" alt="Christmas Gothic" class="tour-date-logo" /></a>
+									<a href="theatre-productions/orlando"><img src="images/productions/orlando/heading.png" alt="Orlando" class="tour-date-logo" /></a>
 								</td>
 
 								<td>
-									<a href="http://www.yvonne-arnaud.co.uk/production/christmas-gothic-0">Yvonne Arnaud Theatre, Guildford</a>
+								<a href="https://www.chelmsford.gov.uk/theatres/whats-on/drama/orlando/">Cramphorn Studio, Chelmsford</a>
 								</td>
 
 								<td class="production-date">
-								Wed December 19, 2018
+								Sat March 30, 2019
 								</td>
 
 								<td>
-								01483 440000
+								01245 606505
 								</td>
 							</tr>
 						</table>
-					</div>
 
-					<div role="tabpanel" class="tab-pane fade" id="christmas-gothic">
-						<!--<p>We're sorry, there are no scheduled tour dates for this production. Please keep checking or subscribe to our newsletter to hear about our latest news and tour dates.</p>-->
+						<table class="tour-dates-table">
+							<tr>
+								<td colspan="4" class="tour-date-month-header">
+									<h4>April 2019</h4>
+								</td>
+							</tr>
 
-						<table class="tour-dates-table" class="tab-pane fade" id="christmas-gothic-output">
 							<tr>
 								<th class="dates-col-1">
 									<p>Production</p>
@@ -694,7 +562,247 @@
 									<p>Box Office</p>
 								</th>
 							</tr>
+
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/the-time-machine"><img src="images/productions/the-time-machine/heading.png" alt="The Time Machine" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="https://www.southhillpark.org.uk/events/the-time-machine/">South Hill Park, Bracknell</a>
+								</td>
+
+								<td class="production-date">
+								Tue April 2, 2019
+								</td>
+
+								<td>
+								01344 484123
+								</td>
+							</tr>
+
+							<tr>
+								<td class="production-name">
+								<a href="theatre-productions/orlando"><img src="images/productions/orlando/heading.png" alt="Orlando" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="https://byretheatre.com/events/orlando-8/">Byre Theatre, St Andrews </a>
+								</td>
+
+								<td class="production-date">
+								Wed April 3, 2019
+								</td>
+
+								<td>
+								01334 475000
+								</td>
+							</tr>
+
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/orlando"><img src="images/productions/orlando/heading.png" alt="Orlando" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="https://www.onfife.com/whats-on/detail/orlando">Adam Smith Theatre, Kirkcaldy</a>
+								</td>
+
+								<td class="production-date">
+								Thur April 4, 2019
+								</td>
+
+								<td>
+								01592 583302
+								</td>
+							</tr>
+
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/the-time-machine"><img src="images/productions/the-time-machine/heading.png" alt="The Time Machine" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="https://farnhammaltings.com/events/the-time-machine/">Farnham Maltings, Hampshire</a>
+								</td>
+
+								<td class="production-date">
+								Thur April 4, 2019
+								</td>
+
+								<td>
+								01252 745444
+								</td>
+							</tr>
+
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/orlando"><img src="images/productions/orlando/heading.png" alt="Orlando" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="https://www.eden-court.co.uk/Online/default.asp?BOparam::WScontent::loadArticle::permalink=show1&BOparam::WScontent::loadArticle::context_id=1A1FA34B-CD7C-4895-84FE-578490BD1FFD">Eden Court, Inverness</a>
+								</td>
+
+								<td class="production-date">
+								Fri April 5, 2019
+								</td>
+
+								<td>
+								01463 234234
+								</td>
+							</tr>
+
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/orlando"><img src="images/productions/orlando/heading.png" alt="Orlando" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="https://thelittleboxoffice.com/swallowtheatre/event/view/91785">Swallow Theatre, Newtown Stewart</a>
+								</td>
+
+								<td class="production-date">
+								Fri April 8, 2019
+								</td>
+
+								<td>
+								01988 850368
+								</td>
+							</tr>
+
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/orlando"><img src="images/productions/orlando/heading.png" alt="Orlando" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="https://thelittleboxoffice.com/swallowtheatre/event/view/91785">Swallow Theatre, Newtown Stewart</a>
+								</td>
+
+								<td class="production-date">
+								Fri April 9, 2019
+								</td>
+
+								<td>
+								01988 850368
+								</td>
+							</tr>
+
+							<tr>
+								<td class="production-name">
+								<a href="theatre-productions/the-time-machine"><img src="images/productions/the-time-machine/heading.png" alt="The Time Machine" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="https://www.theatreroyalwakefield.co.uk/whats-on/the-time-machine/">Theatre Royal Wakefield</a>
+								</td>
+
+								<td class="production-date">
+								Fri April 10, 2019
+								</td>
+
+								<td>
+								01924 211311
+								</td>
+							</tr>
+
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/the-time-machine"><img src="images/productions/the-time-machine/heading.png" alt="The Time Machine" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									Arts Centre, Washington
+								</td>
+
+								<td class="production-date">
+								Fri April 11, 2019
+								</td>
+
+								<td>
+								0191 561 3455
+								</td>
+							</tr>
+
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/orlando"><img src="images/productions/orlando/heading.png" alt="Orlando" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="http://www.helmsleyarts.co.uk/whats-on/orlando-dyad-productions">Helmsley Arts Centre</a>
+								</td>
+
+								<td class="production-date">
+								Fri April 12, 2019
+								</td>
+
+								<td>
+								01439 771700
+								</td>
+							</tr>
+
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/orlando"><img src="images/productions/orlando/heading.png" alt="Orlando" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="http://www.roperyhall.co.uk/2018/10/19/orlando/">Ropery Hall, Barton Upon Humber</a>
+								</td>
+
+								<td class="production-date">
+								Sat April 13, 2019
+								</td>
+
+								<td>
+								01652 660380
+								</td>
+							</tr>
+
+							<tr>
+								<td class="production-name">
+									<a href="theatre-productions/the-time-machine"><img src="images/productions/the-time-machine/heading.png" alt="The Time Machine" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									<a href="https://www.rosehilltheatre.co.uk/whats-on/theatre/the-time-machine">Rosehill Theatre, Whitehaven</a>
+								</td>
+
+								<td class="production-date">
+								Sat April 13, 2019
+								</td>
+
+								<td>
+								01946 692422
+								</td>
+							</tr>
 						</table>
+					</div>
+
+					<div role="tabpanel" class="tab-pane fade" id="christmas-gothic">
+						<p>We're sorry, there are no scheduled tour dates for this production. Please keep checking or subscribe to our newsletter to hear about our latest news and tour dates.</p>
+
+						<!--<table class="tour-dates-table" class="tab-pane fade" id="christmas-gothic-output">
+							<tr>
+								<th class="dates-col-1">
+									<p>Production</p>
+								</th>
+
+								<th class="dates-col-2">
+									<p>Theatre</p>
+								</th>
+
+								<th class="dates-col-3">
+									<p>Date</p>
+								</th>
+
+								<th class="dates-col-4">
+									<p>Box Office</p>
+								</th>
+							</tr>
+						</table>-->
 					</div>
 
 					<div role="tabpanel" class="tab-pane fade" id="dalloway">
@@ -842,9 +950,9 @@
 					</div>
 
 					<div role="tabpanel" class="tab-pane fade" id="jane-eyre">
-						<!--<p>We're sorry, there are no scheduled tour dates for this production. Please keep checking or subscribe to our newsletter to hear about our latest news and tour dates.</p>-->
+						<p>We're sorry, there are no scheduled tour dates for this production. Please keep checking or subscribe to our newsletter to hear about our latest news and tour dates.</p>
 
-						<table class="tour-dates-table" id="jane-eyre-output">
+						<!--<table class="tour-dates-table" id="jane-eyre-output">
 							<tr>
 								<th class="dates-col-1">
 									<p>Production</p>
@@ -862,7 +970,7 @@
 									<p>Box Office</p>
 								</th>
 							</tr>
-						</table>
+						</table>-->
 					</div>
 
 					<div role="tabpanel" class="tab-pane fade" id="the-time-machine">
@@ -890,9 +998,9 @@
 					</div>
 					
 					<div role="tabpanel" class="tab-pane fade" id="orlando">
-						<p>We're sorry, there are no scheduled tour dates for this production. Please keep checking or subscribe to our newsletter to hear about our latest news and tour dates.</p>
+						<!--<p>We're sorry, there are no scheduled tour dates for this production. Please keep checking or subscribe to our newsletter to hear about our latest news and tour dates.</p>-->
 
-						<!--<table class="tour-dates-table" id="orlando-output">
+						<table class="tour-dates-table" id="orlando-output">
 							<tr>
 								<th class="dates-col-1">
 									<p>Production</p>
@@ -910,7 +1018,7 @@
 									<p>Box Office</p>
 								</th>
 							</tr>
-						</table>-->sw
+						</table>
 					</div>
 				</div>
 			</div>
