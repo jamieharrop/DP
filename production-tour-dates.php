@@ -417,7 +417,7 @@
 								</td>
 
 								<td>
-									Stables Theatre, Hastings
+									<a href="http://stablestheatre.co.uk/orlando/">Stables Theatre, Hastings</a>
 								</td>
 
 								<td class="production-date">
@@ -435,7 +435,7 @@
 								</td>
 
 								<td>
-									Stables Theatre, Hastings
+								<a href="http://stablestheatre.co.uk/orlando/">Stables Theatre, Hastings</a>
 								</td>
 
 								<td class="production-date">
@@ -601,6 +601,24 @@
 
 							<tr>
 								<td class="production-name">
+									<a href="theatre-productions/the-time-machine"><img src="images/productions/the-time-machine/heading.png" alt="The Time Machine" class="tour-date-logo" /></a>
+								</td>
+
+								<td>
+									Borough Theatre, Abergavenny
+								</td>
+
+								<td class="production-date">
+								Wed April 3, 2019
+								</td>
+
+								<td>
+
+								</td>
+							</tr>
+
+							<tr>
+								<td class="production-name">
 									<a href="theatre-productions/orlando"><img src="images/productions/orlando/heading.png" alt="Orlando" class="tour-date-logo" /></a>
 								</td>
 
@@ -713,7 +731,7 @@
 								</td>
 
 								<td>
-									Arts Centre, Washington
+									<a href="https://sunderlandculture.org.uk/events/the-time-machine/">Arts Centre, Washington</a>
 								</td>
 
 								<td class="production-date">
