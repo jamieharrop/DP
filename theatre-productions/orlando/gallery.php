@@ -70,6 +70,32 @@
 						</div>
 					</div>
 
+					<div class="row">
+						<div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
+							<a href="../../images/productions/orlando/gallery/006-h.jpg" class="small-gallery">
+								<img data-img-modal="../../images/productions/orlando/gallery/006.jpg" src="../../images/productions/orlando/gallery/006.jpg" class="thumbnail img-responsive" alt="Sixth Gallery Image">
+							</a>
+						</div>
+
+						<div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
+							<a href="../../images/productions/orlando/gallery/007-h.jpg" class="small-gallery">
+								<img data-img-modal="../../images/productions/orlando/gallery/007.jpg" src="../../images/productions/orlando/gallery/007.jpg" class="thumbnail img-responsive" alt="Seventh Gallery Image">
+							</a>
+						</div>
+
+						<div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
+							<a href="../../images/productions/orlando/gallery/008-h.jpg" class="small-gallery">
+								<img data-img-modal="../../images/productions/orlando/gallery/008.jpg" src="../../images/productions/orlando/gallery/008.jpg" class="thumbnail img-responsive" alt="Eighth Gallery Image">
+							</a>
+						</div>
+
+						<div class="col-lg-2 col-md-2 col-sm-3 col-xs-6">
+							<a href="../../images/productions/orlando/gallery/009-h.jpg" class="small-gallery">
+								<img data-img-modal="../../images/productions/orlando/gallery/009.jpg" src="../../images/productions/orlando/gallery/009.jpg" class="thumbnail img-responsive" alt="Ninth Gallery Image">
+							</a>
+						</div>
+					</div>
+
 					<div id="myModal" class="modal fade" tabindex="-1" role="dialog">
 						<div class="modal-dialog">
 							<div class="modal-content">
